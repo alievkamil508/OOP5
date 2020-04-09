@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Stream\Stream\bin\Debug\Stream.exe.config
+C:\Users\user\Documents\c# test\Stream\Stream\bin\Debug\Stream.exe
+C:\Users\user\Documents\c# test\Stream\Stream\bin\Debug\Stream.pdb
+C:\Users\user\Documents\c# test\Stream\Stream\obj\Debug\Stream.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Stream\Stream\obj\Debug\Stream.exe
+C:\Users\user\Documents\c# test\Stream\Stream\obj\Debug\Stream.pdb
